@@ -117,5 +117,5 @@ This project was developed as part of the **AI for Good Hackathon (Hack2Skill)**
 ---
 
 ## Authors
-- Siddhesh Gupta (Team Lead)
+- Siddhesh Gupta
 
